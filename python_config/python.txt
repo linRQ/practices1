@@ -1,0 +1,13 @@
+[numbers]
+pi: 3.1415926535897931
+
+[messages]
+
+greeting: Welcome to the area of calculation program!
+question: Please enter the radius :
+result_message: The area is
+
+[messages2]
+greeting = Welcome to the area of calculation program!2
+question = Please enter the radius :2
+result_message = The area is2
